@@ -1,0 +1,1 @@
+Create vue project with CLI => vue create porject-name
